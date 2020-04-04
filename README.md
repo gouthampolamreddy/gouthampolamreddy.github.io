@@ -1,7 +1,6 @@
 # customer-review-analysis
 
 ---
-title: "E Commerce"
 author: "Goutham Polamreddy"
 date: "28 March 2020"
 ---
@@ -29,7 +28,7 @@ date: "28 March 2020"
 
 # Data Report
 
-**Data Collection: **This data is collected from reviews that customers provided for different products on a E Commerce website.
+**Data Collection** : This data is collected from reviews that customers provided for different products on a E Commerce website.
 A quick glance at data below
 ```{r echo=FALSE}
 setwd("C:\\Users\\DELL\\Desktop\\exploRe")
@@ -249,18 +248,3 @@ From the graph above, there are users who found both reviews where the product i
 3. Adding on to points 1 and 2, people recommended products with positive reviews and not for negative reviews.
 4. Age has no influence on recommendations.
 5. People found reviews helpful both recommended and not recommended.
-
-
-
-© 2020 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
