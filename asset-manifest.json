@@ -1,21 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.6d6edb35.chunk.css",
-    "main.js": "/static/js/main.a51679f9.chunk.js",
-    "main.js.map": "/static/js/main.a51679f9.chunk.js.map",
+    "main.css": "/static/css/main.ed787de9.chunk.css",
+    "main.js": "/static/js/main.d3d3b9cd.chunk.js",
+    "main.js.map": "/static/js/main.d3d3b9cd.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.a27f2ee8.js",
     "runtime-main.js.map": "/static/js/runtime-main.a27f2ee8.js.map",
-    "static/js/2.98398174.chunk.js": "/static/js/2.98398174.chunk.js",
-    "static/js/2.98398174.chunk.js.map": "/static/js/2.98398174.chunk.js.map",
+    "static/js/2.1c0a5154.chunk.js": "/static/js/2.1c0a5154.chunk.js",
+    "static/js/2.1c0a5154.chunk.js.map": "/static/js/2.1c0a5154.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.6d6edb35.chunk.css.map": "/static/css/main.6d6edb35.chunk.css.map",
-    "static/js/2.98398174.chunk.js.LICENSE.txt": "/static/js/2.98398174.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/static/media/christopher-burns-unsplash.f2daab4c.jpg"
+    "static/css/main.ed787de9.chunk.css.map": "/static/css/main.ed787de9.chunk.css.map",
+    "static/js/2.1c0a5154.chunk.js.LICENSE.txt": "/static/js/2.1c0a5154.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.a27f2ee8.js",
-    "static/js/2.98398174.chunk.js",
-    "static/css/main.6d6edb35.chunk.css",
-    "static/js/main.a51679f9.chunk.js"
+    "static/js/2.1c0a5154.chunk.js",
+    "static/css/main.ed787de9.chunk.css",
+    "static/js/main.d3d3b9cd.chunk.js"
   ]
 }
